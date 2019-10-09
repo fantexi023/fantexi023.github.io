@@ -1,11 +1,11 @@
 # Basic
-title: GcsSloop
-subtitle: Just do IT later.
-welcome_message: 欢迎来到我的魔法世界! 
-description: 嗨，我是 GcsSloop，一名来自2.5次元的魔法师，Android自定义View系列文章作者，非著名程序员。
-creator: <a href="http://www.GcsSloop.com">@GcsSloop</a>
+title: 牛牛爸
+subtitle: Just do Eat.
+welcome_message: 欢迎来到我的魔法世界!
+description: 嗨，我是 牛牛爸，一名iOS工程师，非主流IT界程序员。
+creator: <a href="http://fantexi023.github.io">@fantexi023</a>
 
-url: "http://www.gcssloop.com"
+url: "http://fantexi023.github.io"
 
 permalink: /:categories/:title
 
@@ -23,10 +23,10 @@ blog_button:
     description: 访问博客
 
 nav:
-    - {title: GitHub,     in_site: false,  description: GcsSloop's GitHub,    url: 'https://github.com/GcsSloop'}
+    - {title: GitHub,     in_site: false,  description: GcsSloop's GitHub,    url: 'https://github.com/fantexi023'}
     - {title: 目录,        in_site: true,  description: 博客目录,               url: '/timeline'}
-    - {title: 关于,        in_site: true,  description: 关于作者 GcsSloop,       url: '/info/about'}
-    
+    - {title: 关于,        in_site: true,  description: 关于作者 牛牛爸,       url: '/info/about'}
+
 
 
 gems:
@@ -44,14 +44,13 @@ comment:
     # duoshuo:
 # Social
 social:
-    weibo: GcsSloop
-    github: GcsSloop
-    twitter: GcsSloop
+    github: http://www.github.com/fantexi023
+    twitter: fantexi023
     rss: /feed.xml
-    mail: GcsSloop@gmail.com
+    mail: fatexi023@gmail.com
     copyright: http://choosealicense.online
 
 # Google Analytics
 ga:
-    id: UA-82493667-1
-    host: www.gcssloop.com
+    id: UA-82493667-11213
+    host: fantexi023.github.io
