@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "Welcome to 牛牛爸 Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2019-10-9 12:00:00
+author:     "fantexi023"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+
+## 前言
+
+2019 年，牛牛爸 总算有个地方可以好好写点东西了。
